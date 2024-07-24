@@ -1,3 +1,5 @@
+package desafio03;
+
 import java.util.Scanner;
 
 public class MainContaBancaria {
